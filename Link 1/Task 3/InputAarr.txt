@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>JavaScript Beginners</title>
+<body>    
+	<script> 
+	var sign ='#';
+	var character='#';
+for(var i="#";i.length<8;i+="#"){
+
+console.log(i);
+//sign+=character;
+}
+
+	</script>
+    </head>
+    
+    </body>
+    </html>
